@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket Pradhan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://aniketpradhan.netlify.app/](https://aniketpradhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aniket08-portfolio.netlify.app/](https://aniket08-portfolio.netlify.app/)
 
-- 📫 How to reach me **aniketpradhan814@gmail.com**
+- 📫 How to reach me **aniket.pro@outlook.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

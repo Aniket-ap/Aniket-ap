@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Pradhan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://aniket08-portfolio.netlify.app/](https://aniket08-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aniket-dev.netlify.app/](https://aniket-dev.netlify.app/)
 
 - 📫 How to reach me **aniket.pro@outlook.com.com**
 

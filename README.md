@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Pradhan</h1>
-<h3 align="center">aspiring Fullstack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://aniket-dev.netlify.app/](https://aniket-dev.netlify.app/)
 

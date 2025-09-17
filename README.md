@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Pradhan</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://aniket-pradhan.vercel.app/](https://aniket-pradhan.vercel.app/)
 
